@@ -1,0 +1,4 @@
+# git ignore file (hand rolled)
+LibrarianBot.txt
+# node_modules
+/node_modules

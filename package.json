@@ -1,0 +1,16 @@
+{
+  "name": "librarybot",
+  "version": "1.0.0",
+  "description": "My first attempt at a discord bot's code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot"
+  ],
+  "author": "luis angulo",
+  "license": "ISC"
+}
