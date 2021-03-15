@@ -2,3 +2,7 @@
 LibrarianBot.txt
 # node_modules
 /node_modules
+# dotenv config files - DO NOT SHARE OR UPLOAD
+*.env
+# vs config files
+*.code-workspace

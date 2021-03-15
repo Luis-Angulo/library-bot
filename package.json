@@ -2,9 +2,9 @@
   "name": "librarybot",
   "version": "1.0.0",
   "description": "My first attempt at a discord bot's code",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon main.js",
     "test": "test"
   },
   "keywords": [
@@ -12,5 +12,12 @@
     "discord-bot"
   ],
   "author": "luis angulo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
